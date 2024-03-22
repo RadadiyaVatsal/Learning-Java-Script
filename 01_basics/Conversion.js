@@ -25,7 +25,7 @@ but it's value will be NaN
 
 
 
-let myStr="";
+let myStr=""; 
 let boolMyStr=Boolean(myStr);
 
 console.log(typeof boolMyStr);
@@ -41,5 +41,5 @@ console.log(boolMyStr);
 
  if value of int variable is non-zero then it will give true
  if value of int variable is 0 then it will give false
- 
+
 */
